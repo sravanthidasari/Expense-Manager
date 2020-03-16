@@ -3,4 +3,4 @@ A way to manage expenses
 
 
 
-Contributor: William Winston
+Collaborator: William Winston
