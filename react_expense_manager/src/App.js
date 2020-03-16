@@ -8,7 +8,7 @@ if (process.env.NODE_ENV === 'development') {
   baseURL = 'https://git.heroku.com/expense-manager-one.git'
 }
 
-// console.log('current base URL:', baseURL)
+console.log('current base URL:', baseURL)
 
 class expenseManager extends React.Component {
     render() {
